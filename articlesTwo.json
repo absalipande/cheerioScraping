@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Countries of the World: A Simple Example",
+    "description": "A single page that lists information about all the countries in the world. Good for those just get started with web scraping.",
+    "relativeUrl": "/pages/simple/",
+    "articleUrl": "https://www.scrapethissite.com/pages/simple/"
+  },
+  {
+    "title": "Hockey Teams: Forms, Searching and Pagination",
+    "description": "Browse through a database of NHL team stats since 1990. Practice building a scraper that handles common website interface components.",
+    "relativeUrl": "/pages/forms/",
+    "articleUrl": "https://www.scrapethissite.com/pages/forms/"
+  },
+  {
+    "title": "Oscar Winning Films: AJAX and Javascript",
+    "description": "Click through a bunch of great films. Learn how content is added to the page asynchronously with Javascript and how you can scrape it.",
+    "relativeUrl": "/pages/ajax-javascript/",
+    "articleUrl": "https://www.scrapethissite.com/pages/ajax-javascript/"
+  },
+  {
+    "title": "Turtles All the Way Down: Frames & iFrames",
+    "description": "Some older sites might still use frames to break up thier pages. Modern ones might be using iFrames to expose data. Learn about turtles as you scrape content inside frames.",
+    "relativeUrl": "/pages/frames/",
+    "articleUrl": "https://www.scrapethissite.com/pages/frames/"
+  },
+  {
+    "title": "Advanced Topics: Real World Challenges You'll Encounter",
+    "description": "Scraping real websites, you're likely run into a number of common gotchas. Get practice with spoofing headers, handling logins & session cookies, finding CSRF tokens, and other common network errors.",
+    "relativeUrl": "/pages/advanced/",
+    "articleUrl": "https://www.scrapethissite.com/pages/advanced/"
+  }
+]
