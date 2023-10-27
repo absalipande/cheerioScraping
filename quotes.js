@@ -30,7 +30,8 @@ const extractQuotes = (html) => {
       .each(function () {
         tags.push($(this).text());
       });
-    console.log([title, author, linkAbout, tags]);
+
+    quotes.push({ title, author, linkAbout, tags });
   });
 
   return quotes;
